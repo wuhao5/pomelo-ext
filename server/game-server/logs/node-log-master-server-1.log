@@ -234,3 +234,42 @@
 
 [2013-02-22 14:14:16.314] [INFO] console - [32m[2013-02-22 14:14:16.313] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
 
+[2013-02-22 19:26:52.383] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-22 19:26:52.563] [INFO] console - info: 'socket.io started'
+[2013-02-22 19:26:52.565] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-02-22 19:26:52.568] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-22 19:26:52.572] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-22 19:26:52.652] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-22 19:26:52.684] [INFO] console - [32m[2013-02-22 19:26:52.673] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 19:26:52.695] [INFO] console - [32m[2013-02-22 19:26:52.683] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 19:26:52.703] [INFO] console - [32m[2013-02-22 19:26:52.702] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-02-22 19:26:52.710] [INFO] console - [32m[2013-02-22 19:26:52.710] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-22 19:26:53.040] [INFO] console - [32m[2013-02-22 19:26:53.039] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 19:26:53.041] [INFO] console - [32m[2013-02-22 19:26:53.040] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 19:26:53.049] [INFO] console - [32m[2013-02-22 19:26:53.049] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-02-22 19:26:53.049] [INFO] console - [32m[2013-02-22 19:26:53.049] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext", "127.0.0.1", 3005
+
+[2013-02-22 19:26:53.089] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-server-1", "ext"
+[2013-02-22 19:26:53.090] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-02-22 19:26:53.092] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-02-22 19:26:53.092] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-02-22 19:26:53.093] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-02-22 19:26:53.093] [INFO] console - [36m[2013-02-22 19:26:53.092] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-02-22 19:26:53.094] [INFO] console - [36m[2013-02-22 19:26:53.094] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-server-1"
+
+[2013-02-22 19:26:53.095] [INFO] console - [32m[2013-02-22 19:26:53.095] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 19:26:53.095] [INFO] console - [32m[2013-02-22 19:26:53.095] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-02-22 19:26:53.096] [INFO] console - [32m[2013-02-22 19:26:53.095] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 19:26:53.096] [INFO] console - [32m[2013-02-22 19:26:53.096] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
+
