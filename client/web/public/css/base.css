@@ -1,4 +1,6 @@
-﻿html,body{
+﻿body{
+  margin:0;
+  padding:0;
   font-size: 12px;
   font-family: "微软雅黑","宋体","黑体",Arial;
   background:  url('/image/bg.png');
@@ -6,13 +8,10 @@
 
 .g-doc {
   width: 900px;
-  margin: 0 auto;
-  text-align: left;
-  line-height: 18px;
-  font-size: 12px;
-  color: #555;
-  font-family: arial;
   position: relative;
+  left:50%;
+  margin-left: -450px;
+  color: #555;
 }
 
 .g-banner {
@@ -31,6 +30,7 @@
 }
 
 .g-banner .logo .img {
+  display:block;
   width: 200px;
   height: 60px;
   background: url(../image/logo.png) no-repeat 0 0;
@@ -54,10 +54,8 @@
 }
 
 .g-content {
-  padding: 150px;
-  width: 800px;
-  margin-left: 0px;
-  font-size: 50pt;
+  padding:30px 0px;
+  font-size: 40px;
   font-style: italic;
 }
 

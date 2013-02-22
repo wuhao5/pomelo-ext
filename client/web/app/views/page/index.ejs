@@ -2,21 +2,56 @@
   <div class="g-content">
     Welcome to Pomelo Ext
   </div>
+  <div>
+    <a href="javascript:connect();">test</a>
+  </div>
 </div>
 
 <script type="text/javascript">
-var pomelo = window.pomelo;
-var host = "127.0.0.1";
-var port = "3010";
-function show() {
-  pomelo.init({
-    host: host,
-    port: port,
-    log: true
-  }, function() {
-  pomelo.request("connector.entryHandler.entry", function(data) {
-      alert(data.msg);
-    });
+  var pomelo = window.pomelo;
+  var host = "127.0.0.1";
+  var port = "3010";
+
+  pomelo.on('onChat', function(data) {
+  
   });
+
+  //update user list
+  pomelo.on('onAdd', function(data) {
+    var user = data.user;
+    alert(user);
+  });
+
+  //update user list
+  pomelo.on('onLeave', function(data) {
+    var user = data.user;
+  });
+
+
+  //handle disconect message, occours when the client is disconnect with servers
+  pomelo.on('disconnect', function(reason) {
+    showLogin();
+  });
+
+function connect() {
+  pomelo.init(
+      {
+        host: host,
+        port: port,
+        log: true
+      }, 
+      function(){
+        pomelo.request(
+          "connector.entryHandler.entry", 
+          {
+            username: "zzy",
+            rid: "default"
+          },
+          function(data) {
+            alert(data.users.length);
+          }
+        );
+      }
+  );
 }
 </script>
