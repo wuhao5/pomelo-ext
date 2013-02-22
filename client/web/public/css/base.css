@@ -1,0 +1,98 @@
+﻿html,body{
+  font-size: 12px;
+  font-family: "微软雅黑","宋体","黑体",Arial;
+  background:  url('/image/bg.png');
+}
+
+.g-doc {
+  width: 900px;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 18px;
+  font-size: 12px;
+  color: #555;
+  font-family: arial;
+  position: relative;
+}
+
+.g-banner {
+  position: relative;
+  height: 90px;
+  margin: 0 auto;
+}
+
+.g-banner .logo {
+  position: absolute;
+  left: 0px;
+  top: 13px;
+  width: 153px;
+  height: 60px;
+  z-index: 101;
+}
+
+.g-banner .logo .img {
+  width: 200px;
+  height: 60px;
+  background: url(../image/logo.png) no-repeat 0 0;
+}
+
+.g-banner .menu {
+  position: absolute;
+  right: 0px;
+  top: 25px;
+  font-size: 14px;
+}
+
+.g-banner a {
+  margin-left:0px;
+}
+
+
+.g-background {
+  height: 350px;
+  background: url(../image/sp.png) no-repeat 326px 0;
+}
+
+.g-content {
+  padding: 150px;
+  width: 800px;
+  margin-left: 0px;
+  font-size: 50pt;
+  font-style: italic;
+}
+
+.g-link {
+  font-size: 11pt;
+  position: relative;
+  margin-top:40px; 
+}
+
+.g-button {
+  margin-top: 10px;
+  text-align: center;
+}
+
+a:link {
+  color: #666;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #666;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #666;
+  text-decoration: underline;
+}
+
+
+a.btn{
+  color: #fff;
+}

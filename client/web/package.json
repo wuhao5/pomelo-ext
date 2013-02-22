@@ -1,0 +1,7 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "dependencies": {
+    "icecream": "0.2.5"
+  }
+}

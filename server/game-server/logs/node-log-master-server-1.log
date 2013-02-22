@@ -1,0 +1,236 @@
+[2013-02-22 13:04:30.616] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-22 13:04:32.432] [INFO] console - info: 'socket.io started'
+[2013-02-22 13:04:32.433] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-02-22 13:04:32.437] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-22 13:04:32.440] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-22 13:04:32.694] [INFO] console - [32m[2013-02-22 13:04:32.543] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+[32m[2013-02-22 13:04:32.572] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-22 13:04:32.694] [INFO] console - [32m[2013-02-22 13:04:32.540] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+[32m[2013-02-22 13:04:32.566] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-02-22 13:04:32.698] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-22 13:04:33.234] [INFO] console - [32m[2013-02-22 13:04:33.233] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:04:33.239] [INFO] console - [31m[2013-02-22 13:04:33.238] [ERROR] console - [39m Caught exception: Error: Cannot find module '../remote/chatRemote'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at Object.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/game-server/app/servers/ext/handler/userHandler.js:1:80)
+    at Module._compile (module.js:449:26)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+
+[2013-02-22 13:04:33.239] [INFO] console - [32m[2013-02-22 13:04:33.239] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:04:33.245] [INFO] console - [32m[2013-02-22 13:04:33.245] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-02-22 13:04:33.277] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-02-22 13:05:48.554] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-22 13:05:48.729] [INFO] console - info: 'socket.io started'
+[2013-02-22 13:05:48.730] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-02-22 13:05:48.734] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-22 13:05:48.737] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-22 13:05:48.818] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-22 13:05:48.852] [INFO] console - [32m[2013-02-22 13:05:48.841] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 13:05:48.861] [INFO] console - [32m[2013-02-22 13:05:48.848] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 13:05:48.869] [INFO] console - [32m[2013-02-22 13:05:48.868] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-22 13:05:48.878] [INFO] console - [32m[2013-02-22 13:05:48.878] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-02-22 13:05:49.200] [INFO] console - [32m[2013-02-22 13:05:49.200] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:05:49.212] [INFO] console - [32m[2013-02-22 13:05:49.212] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext", "127.0.0.1", 3005
+
+[2013-02-22 13:05:49.219] [INFO] console - [32m[2013-02-22 13:05:49.218] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:05:49.225] [INFO] console - [32m[2013-02-22 13:05:49.225] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-02-22 13:05:49.258] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-server-1", "ext"
+[2013-02-22 13:05:49.265] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-02-22 13:05:49.266] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-02-22 13:05:49.267] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-02-22 13:05:49.267] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-02-22 13:05:49.267] [INFO] console - [36m[2013-02-22 13:05:49.267] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-server-1"
+
+[2013-02-22 13:05:49.267] [INFO] console - [36m[2013-02-22 13:05:49.267] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-02-22 13:05:49.268] [INFO] console - [32m[2013-02-22 13:05:49.268] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:05:49.269] [INFO] console - [32m[2013-02-22 13:05:49.268] [INFO] console - [39minfo: 'socket.io started'
+[32m[2013-02-22 13:05:49.268] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
+
+[2013-02-22 13:05:49.269] [INFO] console - [32m[2013-02-22 13:05:49.268] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-02-22 13:05:59.936] [INFO] console - [31m[2013-02-22 13:05:59.935] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [39m[handleManager]: fail to find handler for "connector.entryHandler.entry"
+
+[2013-02-22 13:05:59.938] [INFO] console - [36m[2013-02-22 13:05:59.938] [DEBUG] /node_modules/pomelo/lib/server/server.js - [39mno default error handler to resolve unknown exception. Error: fail to find handler for connector.entryHandler.entry
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+    at bindEvents (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/components/connector.js:92:5)
+
+[2013-02-22 13:06:37.061] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-22 13:06:37.235] [INFO] console - info: 'socket.io started'
+[2013-02-22 13:06:37.236] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-02-22 13:06:37.240] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-22 13:06:37.243] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-22 13:06:37.318] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-22 13:06:37.364] [INFO] console - [32m[2013-02-22 13:06:37.350] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 13:06:37.371] [INFO] console - [32m[2013-02-22 13:06:37.358] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 13:06:37.381] [INFO] console - [32m[2013-02-22 13:06:37.380] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-02-22 13:06:37.387] [INFO] console - [32m[2013-02-22 13:06:37.386] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-22 13:06:37.732] [INFO] console - [32m[2013-02-22 13:06:37.731] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:06:37.732] [INFO] console - [32m[2013-02-22 13:06:37.731] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:06:37.740] [INFO] console - [32m[2013-02-22 13:06:37.740] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-02-22 13:06:37.746] [INFO] console - [32m[2013-02-22 13:06:37.746] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext", "127.0.0.1", 3005
+
+[2013-02-22 13:06:37.782] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-02-22 13:06:37.785] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-server-1", "ext"
+[2013-02-22 13:06:37.786] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-02-22 13:06:37.787] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-02-22 13:06:37.787] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-02-22 13:06:37.787] [INFO] console - [36m[2013-02-22 13:06:37.787] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-server-1"
+
+[2013-02-22 13:06:37.787] [INFO] console - [36m[2013-02-22 13:06:37.787] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-02-22 13:06:37.788] [INFO] console - [32m[2013-02-22 13:06:37.788] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:06:37.788] [INFO] console - [32m[2013-02-22 13:06:37.788] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:06:37.789] [INFO] console - [32m[2013-02-22 13:06:37.788] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-02-22 13:06:37.789] [INFO] console - [32m[2013-02-22 13:06:37.789] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
+
+[2013-02-22 13:06:39.831] [INFO] console - [31m[2013-02-22 13:06:39.830] [ERROR] console - [39m Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+
+[2013-02-22 13:07:49.077] [INFO] console - [31m[2013-02-22 13:07:49.076] [ERROR] console - [39m Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+
+[2013-02-22 13:26:59.513] [INFO] console - [31m[2013-02-22 13:26:59.512] [ERROR] console - [39m Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+
+[2013-02-22 13:58:14.001] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-22 13:58:14.185] [INFO] console - info: 'socket.io started'
+[2013-02-22 13:58:14.186] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-02-22 13:58:14.190] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-22 13:58:14.194] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-22 13:58:14.274] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-22 13:58:14.312] [INFO] console - [32m[2013-02-22 13:58:14.300] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 13:58:14.318] [INFO] console - [32m[2013-02-22 13:58:14.305] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 13:58:14.330] [INFO] console - [32m[2013-02-22 13:58:14.330] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-02-22 13:58:14.337] [INFO] console - [32m[2013-02-22 13:58:14.336] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-22 13:58:14.679] [INFO] console - [32m[2013-02-22 13:58:14.678] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:58:14.680] [INFO] console - [32m[2013-02-22 13:58:14.679] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:58:14.686] [INFO] console - [32m[2013-02-22 13:58:14.686] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext", "127.0.0.1", 3005
+
+[2013-02-22 13:58:14.688] [INFO] console - [32m[2013-02-22 13:58:14.688] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-02-22 13:58:14.720] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-server-1", "ext"
+[2013-02-22 13:58:14.720] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-02-22 13:58:14.721] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-02-22 13:58:14.722] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-02-22 13:58:14.723] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-02-22 13:58:14.723] [INFO] console - [36m[2013-02-22 13:58:14.722] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-server-1"
+
+[2013-02-22 13:58:14.723] [INFO] console - [36m[2013-02-22 13:58:14.722] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-02-22 13:58:14.723] [INFO] console - [32m[2013-02-22 13:58:14.723] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:58:14.724] [INFO] console - [32m[2013-02-22 13:58:14.724] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 13:58:14.724] [INFO] console - [32m[2013-02-22 13:58:14.724] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
+[2013-02-22 13:58:14.724] [INFO] console - [32m[2013-02-22 13:58:14.724] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
+
+[2013-02-22 14:14:15.594] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-22 14:14:15.790] [INFO] console - info: 'socket.io started'
+[2013-02-22 14:14:15.793] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=connector serverId=connector-server-1 locally
+[2013-02-22 14:14:15.796] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-22 14:14:15.799] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-22 14:14:15.870] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-22 14:14:15.924] [INFO] console - [32m[2013-02-22 14:14:15.912] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 14:14:15.930] [INFO] console - [32m[2013-02-22 14:14:15.912] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-22 14:14:15.940] [INFO] console - [32m[2013-02-22 14:14:15.939] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-22 14:14:15.946] [INFO] console - [32m[2013-02-22 14:14:15.945] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "connector-server-1"
+
+[2013-02-22 14:14:16.264] [INFO] console - [32m[2013-02-22 14:14:16.263] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 14:14:16.269] [INFO] console - [32m[2013-02-22 14:14:16.268] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 14:14:16.271] [INFO] console - [32m[2013-02-22 14:14:16.271] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext", "127.0.0.1", 3005
+
+[2013-02-22 14:14:16.277] [INFO] console - [32m[2013-02-22 14:14:16.276] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-02-22 14:14:16.306] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-server-1", "ext"
+[2013-02-22 14:14:16.310] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "connector-server-1", "connector"
+[2013-02-22 14:14:16.311] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-02-22 14:14:16.312] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-02-22 14:14:16.312] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-02-22 14:14:16.312] [INFO] console - [36m[2013-02-22 14:14:16.312] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-server-1"
+
+[2013-02-22 14:14:16.312] [INFO] console - [36m[2013-02-22 14:14:16.311] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "connector-server-1"
+
+[2013-02-22 14:14:16.313] [INFO] console - [32m[2013-02-22 14:14:16.313] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 14:14:16.313] [INFO] console - [32m[2013-02-22 14:14:16.313] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-22 14:14:16.314] [INFO] console - [32m[2013-02-22 14:14:16.313] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
+
+[2013-02-22 14:14:16.314] [INFO] console - [32m[2013-02-22 14:14:16.313] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "connector-server-1" started.
+
