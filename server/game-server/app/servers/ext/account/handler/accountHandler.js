@@ -17,35 +17,41 @@ var handler = Handler.prototype;
  * @return {Void}
  */
 handler.login = function(msg, session, next) {
-	var self = this;
-	var rid = msg.rid;
-	var uid = msg.username + '*' + rid
-	var sessionService = self.app.get('sessionService');
-
-	//duplicate log in
-	if( !! sessionService.getByUid(uid)) {
-		next(null, {
-			code: 500,
-			error: true
-		});
+	if(!msg || !session) {
 		return;
 	}
 
-	session.bind(uid);
-	session.set('rid', rid);
-	session.push('rid', function(err) {
-		if(err) {
-			console.error('set rid for session service failed! error is : %j', err.stack);
-		}
-	});
-	session.on('closed', onUserLeave.bind(null, self.app));
+	var username = msg.username,
+	    password = msg.password;
+   
+    console.log("pa:"+password);
+	var crypto = require('crypto'),
+	    md5 = crypto.createHash('md5');  
 
-	//put user into channel
-	self.app.rpc['ext/account'].accountRemote.add(session, uid, self.app.get('serverId'), rid, true, function(users){
-		next(null, {
-			users:users
-		});
-	});
+	var pass = md5.update(password).digest('hex');   
+
+	//load schema
+    var config = this.app.get("pomeloext.config");
+	var Account = this.app.mongo.model('Account', this.app.get("pomeloext.schemas").Account);
+
+	Account.findOne(
+		{ 
+			username : username,
+			password : pass
+		}, 
+		function (err, data) {
+            if(err){
+				next(null, {
+					code: 0,
+					message : 'login failed!'
+				});
+            }else{
+            	next(null, {
+					code: 1
+				});
+            }
+		}
+	);
 };
 
 /**
@@ -73,28 +79,56 @@ handler.register = function(msg, session, next) {
     var config = this.app.get("pomeloext.config");
 	var Account = this.app.mongo.model('Account', this.app.get("pomeloext.schemas").Account);
 	
-    //model
-	var account = new Account();
-    account.username = username;
-    account.username = pass
-	account.apps = {};
-	account.apps[config.app_name] = {
-        friends : [],
-        messages : []
-	};
+	Account.findOne(
+		{ 
+			username : username,
+			password : pass
+		}, 
+		function (err, data) {
+            if(err){
+				next(null, {
+					code: 0,
+					message : 'server error!'
+				});
+            }else{
+                if(data != null){
+			        next(null, {
+						code: 0,
+						message : 'account already exist!'
+					});
+                }else{
+                	reg();
+                }
+            }
+		}
+	);
     
-    //save
-	account.save(function (err) {
-	  if(err){
-	  	next(null, {
-			code: 1
+
+	function reg(){
+	    //model
+		var account = new Account();
+	    account.username = username;
+	    account.password = pass
+		account.apps = {};
+		account.apps[config.app_name] = {
+	        friends : [],
+	        messages : []
+		};
+	    
+	    //save
+		account.save(function (err) {
+		  if(err){
+		  	next(null, {
+				code: 0,
+				message : 'register failed!'
+			});
+		  }else{
+			next(null, {
+				code: 1
+			});
+		  }
 		});
-	  }else{
-		next(null, {
-			code: 0
-		});
-	  }
-	});
+	}
 };
 
 /**

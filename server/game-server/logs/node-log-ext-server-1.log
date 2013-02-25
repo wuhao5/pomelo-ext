@@ -544,3 +544,81 @@
 [2013-02-25 15:38:59.926] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
 [2013-02-25 15:38:59.928] [INFO] console - info: 'socket.io started'
 [2013-02-25 15:38:59.928] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:08:32.876] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:08:33.635] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:08:33.645] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:08:33.710] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:08:33.711] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:08:33.712] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:15:16.051] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:15:16.588] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:15:16.596] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:15:16.638] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:15:16.640] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:15:16.640] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:23:37.528] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:23:38.043] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:23:38.051] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:23:38.094] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:23:38.096] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:23:38.096] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:26:49.949] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:26:50.466] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:26:50.474] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:26:50.513] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:26:50.514] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:26:50.515] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:37:17.260] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:37:17.801] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:37:17.808] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:37:17.857] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:37:17.858] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:37:17.858] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:38:30.262] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:38:30.817] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:38:30.825] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:38:30.870] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:38:30.871] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:38:30.871] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:40:48.583] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:40:49.103] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:40:49.115] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:40:49.172] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:40:49.173] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:40:49.174] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:50:02.063] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:50:02.603] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:50:02.611] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:50:02.659] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:50:02.660] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:50:02.660] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:52:15.398] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:52:15.899] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:52:15.907] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:52:15.947] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:52:15.948] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:52:15.948] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:55:21.230] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:55:21.739] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:55:21.748] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:55:21.785] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:55:21.787] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:55:21.788] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:56:14.364] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:56:14.882] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:56:14.895] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:56:14.947] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:56:14.948] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:56:14.949] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:57:26.103] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:57:26.640] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:57:26.649] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:57:26.690] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:57:26.692] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:57:26.692] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.
+[2013-02-25 20:57:37.134] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-server-1"
+[2013-02-25 20:57:37.631] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:57:37.639] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext", "127.0.0.1", 3005
+[2013-02-25 20:57:37.680] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-server-1"
+[2013-02-25 20:57:37.681] [INFO] console - info: 'socket.io started'
+[2013-02-25 20:57:37.681] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-server-1" started.

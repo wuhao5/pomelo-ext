@@ -9,29 +9,25 @@
         
         <p class='g-header'>example</p>
         <div class="sec">
-         
-            <input type="text" name="username" /><br/>
-            <input type="text" name="password" /><br/>
-            <a href="javascript:pomeloext.account.register()" class="btn">register</a>
-          
+          <form id="register_form">
+            <input type="text" name="username" id="username" /><br/>
+            <input type="password" name="password" id="password" /><br/>
+            <a href="javascript:register();" class="btn">register</a>
+          </form>
         </div>
 
         <p class='g-header'>javascript code</p>
         <pre><code>
-  function register() {
-    var pomelo = window.pomelo;
     pomelo.request(
       "ext/account.accountHandler.register", 
       {
         username: "username",
-        password: "password",
-        room:'room_id'
+        password: "password"
       },
       function(data) {
         alert(data.code);
       }
     );
-  }
         </code></pre>    
 
         <div class="page-header">
@@ -41,29 +37,25 @@
         <p class='g-header'>example</p>
         
         <div class="sec">
-         
-            <input type="text" name="username" /><br/>
-            <input type="text" name="password" /><br/>
-            <a href="#" class="btn">register</a>
-          
+          <form id="login_form">
+            <input type="text" name="username" id="username" /><br/>
+            <input type="password" name="password" id="password" /><br/>
+            <a href="javascript:login();" class="btn">login</a>
+          </form>
         </div>
 
         <p class='g-header'>javascript code</p>
         <pre><code>
-  function register() {
-    var pomelo = window.pomelo;
     pomelo.request(
-      "ext/account.accountHandler.register", 
+      "ext/account.accountHandler.login", 
       {
         username: "username",
-        password: "password",
-        room:'room_id'
+        password: "password"
       },
       function(data) {
         alert(data.code);
       }
     );
-  }
         </code></pre>    
       </section>
 
@@ -72,8 +64,19 @@
 
 <script type="text/javascript">
 $(function(){
-pomeloext.connect();
-hljs.initHighlightingOnLoad();
+    hljs.initHighlightingOnLoad();
 });
+
+function register(){
+    var username = $("#username", "#register_form").val();
+    var password = $("#password", "#register_form").val();
+    pomeloext.account.register(username, password);
+}
+
+function login(){
+    var username = $("#username", "#login_form").val();
+    var password = $("#password", "#login_form").val();
+    pomeloext.account.login(username, password);
+}
 
 </script>

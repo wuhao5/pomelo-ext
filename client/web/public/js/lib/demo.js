@@ -1,20 +1,21 @@
 var pomelo = window.pomelo;
 
+//global pomeloext object
 var pomeloext = {
+  connected:false,
   config:{
-    connected : false,
     host : "127.0.0.1",
     port : "3110"
   },
   account:{}
 }
 
-//handle disconect message, occours when the client is disconnect with servers
-pomelo.on('disconnect', function(reason) {
-  connected = false;
+pomelo.on('disconnect', function(data) {
+  pomeloext.connected = false;
 });
 
-pomeloext.connect = function(){
+//connect to server
+pomeloext.connect = function(func){
   pomelo.init(
       {
         host: this.config.host,
@@ -22,35 +23,61 @@ pomeloext.connect = function(){
         log: true
       }, 
       function(){
-        alert("connected!");
+        pomeloext.connected = true;
+        func();
       }
   );
 }
 
-pomeloext.account.register = function() {
-  pomelo.request(
-    "ext/account.accountHandler.register", 
-    {
-      username: "zzy",
-      password: "default",
-      room:'123'
-    },
-    function(data) {
-      alert(data.message);
+//check status of connection
+pomeloext.call = function(func){
+  if(this.connected){
+    func();
+  }else{
+    this.connect(func);
+  }
+}
+
+//account register
+pomeloext.account.register = function(username, password) {
+  pomeloext.call(
+    function(){
+      pomelo.request(
+        "ext/account.accountHandler.register", 
+        {
+          username : username,
+          password : password
+        },
+        function(data) {
+          if(data.code == 1){
+            alert("register success!");
+          }else{
+            alert(data.message);
+          }
+        }
+      );
     }
   );
 }
 
-pomeloext.account.login = function() {
-  pomelo.request(
-    "ext/account.accountHandler.login", 
-    {
-      username: "zzy",
-      password: "default",
-      room:'123'
-    },
-    function(data) {
-      alert(data.users.length);
+//account login
+pomeloext.account.login = function(username, password) {
+  pomeloext.call(
+    function(){
+      pomelo.request(
+        "ext/account.accountHandler.login", 
+        {
+          username : username,
+          password : password
+        },
+        function(data) {
+          if(data.code == 1){
+            alert("login success!");
+          }else{
+            alert(data.message);
+          }
+        }
+      );
     }
   );
 }
