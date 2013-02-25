@@ -63,7 +63,7 @@ handler.register = function(msg, session, next) {
 
 	var username = msg.username,
 	    password = msg.password;
-	    
+
 	var crypto = require('crypto'),
 	    md5 = crypto.createHash('md5');  
 
@@ -87,13 +87,11 @@ handler.register = function(msg, session, next) {
 	account.save(function (err) {
 	  if(err){
 	  	next(null, {
-			code: 500,
-			message:'failed!'
+			code: 1
 		});
 	  }else{
 		next(null, {
-			code: 200,
-			message:'success!'
+			code: 0
 		});
 	  }
 	});

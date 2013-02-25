@@ -3849,3 +3849,41 @@
 
 [2013-02-25 15:32:56.645] [INFO] console - [32m[2013-02-25 15:32:56.642] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
 
+[2013-02-25 15:38:58.835] [INFO] /node_modules/pomelo/lib/application.js - application inited: "master-server-1"
+[2013-02-25 15:38:59.181] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:38:59.182] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=ext serverId=ext-server-1 locally
+[2013-02-25 15:38:59.185] [INFO] /node_modules/pomelo/lib/master/starter.js - Executing cd /Users/zhengzhiyu/apps/pomelo-ext/server/game-server && node  /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js env=development serverType=ext/account serverId=ext-account-server-1 locally
+[2013-02-25 15:38:59.188] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "master", "127.0.0.1", 3005
+[2013-02-25 15:38:59.243] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "master-server-1", "master"
+[2013-02-25 15:38:59.311] [INFO] console - [32m[2013-02-25 15:38:59.298] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-25 15:38:59.318] [INFO] console - [32m[2013-02-25 15:38:59.302] [INFO] /node_modules/pomelo/lib/application.js - [39mapp.init invoked
+
+[2013-02-25 15:38:59.326] [INFO] console - [32m[2013-02-25 15:38:59.326] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-server-1"
+
+[2013-02-25 15:38:59.332] [INFO] console - [32m[2013-02-25 15:38:59.332] [INFO] /node_modules/pomelo/lib/application.js - [39mapplication inited: "ext-account-server-1"
+
+[2013-02-25 15:38:59.859] [INFO] console - [32m[2013-02-25 15:38:59.858] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-25 15:38:59.868] [INFO] console - [32m[2013-02-25 15:38:59.867] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-25 15:38:59.870] [INFO] console - [32m[2013-02-25 15:38:59.869] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext/account", "127.0.0.1", 3005
+
+[2013-02-25 15:38:59.884] [INFO] console - [32m[2013-02-25 15:38:59.878] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - [39mtry to connect master: "ext", "127.0.0.1", 3005
+
+[2013-02-25 15:38:59.913] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-account-server-1", "ext/account"
+[2013-02-25 15:38:59.923] [DEBUG] /node_modules/pomelo/lib/master/master.js - [master] new register connection: "ext-server-1", "ext"
+[2013-02-25 15:38:59.923] [INFO] /node_modules/pomelo/lib/master/master.js - [master] all servers have started and notify after start now...
+[2013-02-25 15:38:59.924] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "master-server-1"
+[2013-02-25 15:38:59.926] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "master-server-1" started.
+[2013-02-25 15:38:59.927] [INFO] console - [36m[2013-02-25 15:38:59.924] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-account-server-1"
+[32m[2013-02-25 15:38:59.926] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-25 15:38:59.927] [INFO] console - [36m[2013-02-25 15:38:59.926] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - [39mafter start: "ext-server-1"
+
+[2013-02-25 15:38:59.927] [INFO] console - [32m[2013-02-25 15:38:59.927] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-account-server-1" started.
+
+[2013-02-25 15:38:59.928] [INFO] console - [32m[2013-02-25 15:38:59.928] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-02-25 15:38:59.929] [INFO] console - [32m[2013-02-25 15:38:59.928] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - [39mserver "ext-server-1" started.
+

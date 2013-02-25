@@ -649,7 +649,7 @@ h6 {
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
-  color: inherit;
+  color: #5D842A;
   text-rendering: optimizelegibility;
 }
 
@@ -711,7 +711,7 @@ h4 small {
 }
 
 .page-header {
-  padding-bottom: 9px;
+  padding-bottom: 0px;
   margin: 20px 0 30px;
   border-bottom: 1px solid #eeeeee;
 }
@@ -730,7 +730,7 @@ ol ul {
 }
 
 li {
-  line-height: 25px;
+  line-height: 20px;
 }
 
 ul.unstyled,
@@ -859,58 +859,6 @@ address {
   margin-bottom: 20px;
   font-style: normal;
   line-height: 20px;
-}
-
-code,
-pre {
-  padding: 0 3px 2px;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
-  font-size: 12px;
-  color: #333333;
-  -webkit-border-radius: 3px;
-     -moz-border-radius: 3px;
-          border-radius: 3px;
-}
-
-code {
-  padding: 2px 4px;
-  color: #d14;
-  background-color: #f7f7f9;
-  border: 1px solid #e1e1e8;
-}
-
-pre {
-  display: block;
-  padding: 9.5px;
-  margin: 0 0 10px;
-  font-size: 13px;
-  line-height: 20px;
-  word-break: break-all;
-  word-wrap: break-word;
-  white-space: pre;
-  white-space: pre-wrap;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  -webkit-border-radius: 4px;
-     -moz-border-radius: 4px;
-          border-radius: 4px;
-}
-
-pre.prettyprint {
-  margin-bottom: 20px;
-}
-
-pre code {
-  padding: 0;
-  color: inherit;
-  background-color: transparent;
-  border: 0;
-}
-
-.pre-scrollable {
-  max-height: 340px;
-  overflow-y: scroll;
 }
 
 form {
@@ -4183,10 +4131,12 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar-inner {
-  min-height: 40px;
-  padding-right: 20px;
-  padding-left: 20px;
+  min-height: 20px;
+  padding-right: 0px;
+  padding-left: 0px;
+  
 }
+
 
 .navbar-inner:before,
 .navbar-inner:after {
@@ -4390,7 +4340,7 @@ input[type="submit"].btn.btn-mini {
   left: 0;
   display: block;
   float: left;
-  margin: 0 10px 0 0;
+  margin: 0px;
 }
 
 .navbar .nav.pull-right {
@@ -4404,7 +4354,7 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li > a {
   float: none;
-  padding: 10px 15px 10px;
+  padding: 10px 15px 10px 15px;
   color: #777777;
   text-decoration: none;
   text-shadow: 0 1px 0 #ffffff;

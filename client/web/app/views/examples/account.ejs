@@ -1,22 +1,79 @@
-<div class="g-background">
+
   <div class="g-content">
-    Account
-  </div>
+
+
+      <section>
+        <div class="page-header">
+          <h4>Account Register</h4>
+        </div>
+        
+        <p class='g-header'>example</p>
+        <div class="sec">
+         
+            <input type="text" name="username" /><br/>
+            <input type="text" name="password" /><br/>
+            <a href="javascript:pomeloext.account.register()" class="btn">register</a>
+          
+        </div>
+
+        <p class='g-header'>javascript code</p>
+        <pre><code>
+  function register() {
+    var pomelo = window.pomelo;
+    pomelo.request(
+      "ext/account.accountHandler.register", 
+      {
+        username: "username",
+        password: "password",
+        room:'room_id'
+      },
+      function(data) {
+        alert(data.code);
+      }
+    );
+  }
+        </code></pre>    
+
+        <div class="page-header">
+          <h4>Account Login</h4>
+        </div>
+
+        <p class='g-header'>example</p>
+        
+        <div class="sec">
+         
+            <input type="text" name="username" /><br/>
+            <input type="text" name="password" /><br/>
+            <a href="#" class="btn">register</a>
+          
+        </div>
+
+        <p class='g-header'>javascript code</p>
+        <pre><code>
+  function register() {
+    var pomelo = window.pomelo;
+    pomelo.request(
+      "ext/account.accountHandler.register", 
+      {
+        username: "username",
+        password: "password",
+        room:'room_id'
+      },
+      function(data) {
+        alert(data.code);
+      }
+    );
+  }
+        </code></pre>    
+      </section>
+
+
 </div>
 
 <script type="text/javascript">
-var pomelo = window.pomelo;
-var host = "127.0.0.1";
-var port = "3010";
-function show() {
-  pomelo.init({
-    host: host,
-    port: port,
-    log: true
-  }, function() {
-  pomelo.request("connector.entryHandler.entry", function(data) {
-      alert(data.msg);
-    });
-  });
-}
+$(function(){
+pomeloext.connect();
+hljs.initHighlightingOnLoad();
+});
+
 </script>
