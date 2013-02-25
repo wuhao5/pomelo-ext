@@ -18,6 +18,13 @@
 
         <p class='g-header'>javascript code</p>
         <pre><code>
+  /**
+   * Note:
+   *
+   * be sure to establish connnection to server before sending request
+   */
+         
+  function register() {          
     pomelo.request(
       "ext/account.accountHandler.register", 
       {
@@ -28,7 +35,7 @@
         alert(data.code);
       }
     );
-        </code></pre>    
+  }                </code></pre>    
 
         <div class="page-header">
           <h4>Account Login</h4>
@@ -46,6 +53,13 @@
 
         <p class='g-header'>javascript code</p>
         <pre><code>
+  /**
+   * Note:
+   *
+   * be sure to establish connnection to server before sending request
+   */
+         
+  function login() {          
     pomelo.request(
       "ext/account.accountHandler.login", 
       {
@@ -56,7 +70,8 @@
         alert(data.code);
       }
     );
-        </code></pre>    
+  }        
+      </code></pre>    
       </section>
 
 
