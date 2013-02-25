@@ -159,3 +159,127 @@
     at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
     at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
     at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 20:52:27.710] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 20:52:37.585] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 21:00:47.422] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 21:01:00.706] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-22 21:01:01.618] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:01:01.626] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-22 21:01:01.678] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-22 21:01:01.680] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:01:01.680] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-22 21:01:06.169] [ERROR] console -  Caught exception: Error: Cannot find module 'crc'
+    at Function.Module._resolveFilename (module.js:338:15)
+    at Function.Module._load (module.js:280:25)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at /Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app.js:14:13
+    at genRouteFun (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/proxy.js:145:7)
+    at proxyCB (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/rpc-client/client.js:157:9)
+    at Object.genFunctionProxy [as add] (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-rpc/lib/util/proxy.js:59:12)
+    at handler.entry (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:36:33)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+[2013-02-22 21:01:09.099] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "connector.entryHandler.entry" timeout.
+[2013-02-22 21:01:57.843] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-22 21:01:58.185] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:01:58.195] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-22 21:01:58.237] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-22 21:01:58.238] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:01:58.238] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-22 21:02:05.151] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 21:02:43.385] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-22 21:02:43.728] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:02:43.738] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-22 21:02:43.778] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-22 21:02:43.780] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:02:43.780] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-22 21:04:07.044] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 21:04:21.341] [INFO] /node_modules/pomelo/lib/application.js - application inited: "connector-server-1"
+[2013-02-22 21:04:21.681] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:04:21.688] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "connector", "127.0.0.1", 3005
+[2013-02-22 21:04:21.740] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "connector-server-1"
+[2013-02-22 21:04:21.742] [INFO] console - info: 'socket.io started'
+[2013-02-22 21:04:21.742] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "connector-server-1" started.
+[2013-02-22 21:12:55.603] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 21:42:28.735] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-22 22:08:36.951] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/connector/handler/entryHandler.js:54:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)

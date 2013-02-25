@@ -3,14 +3,21 @@
     Welcome to Pomelo Ext
   </div>
   <div>
-    <a href="javascript:connect();">test</a>
+    <a href="javascript:connect();">connect</a>
+    <a href="javascript:register();">register</a>
   </div>
 </div>
 
 <script type="text/javascript">
+  var connected = false;
   var pomelo = window.pomelo;
   var host = "127.0.0.1";
-  var port = "3010";
+  var port = "3110";
+
+  //handle disconect message, occours when the client is disconnect with servers
+  pomelo.on('disconnect', function(reason) {
+    connected = false;
+  });
 
   pomelo.on('onChat', function(data) {
   
@@ -19,7 +26,6 @@
   //update user list
   pomelo.on('onAdd', function(data) {
     var user = data.user;
-    alert(user);
   });
 
   //update user list
@@ -27,31 +33,44 @@
     var user = data.user;
   });
 
-
-  //handle disconect message, occours when the client is disconnect with servers
-  pomelo.on('disconnect', function(reason) {
-    showLogin();
-  });
-
-function connect() {
-  pomelo.init(
+  function connect() {
+    pomelo.init(
+        {
+          host: host,
+          port: port,
+          log: true
+        }, 
+        function(){
+          alert("connected!");
+        }
+    );
+  }
+  
+  function register() {
+    pomelo.request(
+      "ext/account.accountHandler.register", 
       {
-        host: host,
-        port: port,
-        log: true
-      }, 
-      function(){
-        pomelo.request(
-          "connector.entryHandler.entry", 
-          {
-            username: "zzy",
-            rid: "default"
-          },
-          function(data) {
-            alert(data.users.length);
-          }
-        );
+        username: "zzy",
+        password: "default",
+        room:'123'
+      },
+      function(data) {
+        alert(data.message);
       }
-  );
-}
+    );
+  }
+
+  function login() {
+    pomelo.request(
+      "ext/account.accountHandler.login", 
+      {
+        username: "zzy",
+        password: "default",
+        room:'123'
+      },
+      function(data) {
+        alert(data.users.length);
+      }
+    );
+  }
 </script>

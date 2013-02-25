@@ -1,0 +1,798 @@
+[2013-02-25 11:09:14.865] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:09:15.209] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:09:15.218] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext.account", "127.0.0.1", 3005
+[2013-02-25 11:09:15.266] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:09:15.268] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:09:15.269] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:10:01.985] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:10:02.338] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:10:02.346] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext.account", "127.0.0.1", 3005
+[2013-02-25 11:10:02.409] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:10:02.411] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:10:02.412] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:10:31.569] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:10:31.893] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:10:31.900] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext.account", "127.0.0.1", 3005
+[2013-02-25 11:10:31.949] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:10:31.951] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:10:31.951] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:11:06.808] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:11:07.191] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:11:07.200] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext.account", "127.0.0.1", 3005
+[2013-02-25 11:11:07.236] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:11:07.237] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:11:07.238] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:20:41.239] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:20:41.587] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:20:41.596] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:20:41.632] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:20:41.633] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:20:41.634] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:22:20.002] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:22:20.329] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:22:20.338] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:22:20.382] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:22:20.384] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:22:20.384] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:23:14.925] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:23:15.262] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:23:15.269] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:23:15.309] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:23:15.311] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:23:15.311] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:35:21.010] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:35:21.509] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:35:21.517] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:35:21.556] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:35:21.557] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:35:21.558] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:35:28.044] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:18)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:35:31.043] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:36:06.571] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:36:06.910] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:36:06.919] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:36:06.963] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:36:06.964] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:36:06.965] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:36:31.965] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:36:32.301] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:36:32.312] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:36:32.353] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:36:32.354] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:36:32.354] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:37:37.190] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:18)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:37:40.189] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:38:54.332] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:38:54.661] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:38:54.669] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:38:54.711] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:38:54.712] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:38:54.713] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:39:39.539] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:39:39.869] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:39:39.879] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:39:39.916] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:39:39.919] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:39:39.919] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:39:44.315] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "ext/account.accountHandler.login"
+[2013-02-25 11:39:44.317] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for ext/account.accountHandler.login
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-02-25 11:39:45.149] [ERROR] /node_modules/pomelo/lib/common/service/handlerService.js - [handleManager]: fail to find handler for "ext/account.accountHandler.login"
+[2013-02-25 11:39:45.150] [DEBUG] /node_modules/pomelo/lib/server/server.js - no default error handler to resolve unknown exception. Error: fail to find handler for ext/account.accountHandler.login
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:29:8)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+[2013-02-25 11:40:15.276] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:40:15.539] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:40:15.547] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:40:15.580] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:40:15.581] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:40:15.582] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:40:18.675] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:18)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:40:21.672] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:40:35.865] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:40:36.134] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:40:36.141] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:40:36.174] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:40:36.176] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:40:36.176] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:40:37.890] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:18)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:40:40.888] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:40:56.784] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:40:57.047] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:40:57.057] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:40:57.092] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:40:57.094] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:40:57.094] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:40:59.421] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:18)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:41:02.419] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:41:11.524] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:41:11.854] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:41:11.863] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:41:11.905] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:41:11.907] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:41:11.907] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:43:03.706] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:43:04.046] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:43:04.056] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:43:04.094] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:43:04.095] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:43:04.096] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:43:06.441] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:26)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:43:09.439] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:43:47.766] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:43:48.103] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:43:48.114] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:43:48.165] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:43:48.166] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:43:48.166] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:44:07.258] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:44:07.578] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:44:07.586] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:44:07.626] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:44:07.627] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:44:07.627] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:48:13.840] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:87:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-25 11:48:36.746] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:87:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-25 11:48:45.847] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:48:46.186] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:48:46.193] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:48:46.234] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:48:46.237] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:48:46.237] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:48:48.034] [ERROR] console -  Caught exception: TypeError: Cannot call method 'add' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:44)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:48:51.031] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:48:55.905] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:48:56.218] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:48:56.225] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:48:56.266] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:48:56.268] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:48:56.269] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:48:58.053] [ERROR] console -  Caught exception: TypeError: Cannot call method 'add' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:36:44)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 11:49:01.051] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 11:49:23.494] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 11:49:23.839] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:49:23.849] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 11:49:23.891] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 11:49:23.893] [INFO] console - info: 'socket.io started'
+[2013-02-25 11:49:23.894] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 11:58:55.210] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:87:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-25 13:16:28.667] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:16:29.023] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:16:29.028] [ERROR] console -  Caught exception: SyntaxError: Unexpected identifier
+    at Module._compile (module.js:437:25)
+    at Object.Module._extensions..js (module.js:467:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:362:17)
+    at require (module.js:378:17)
+    at loadFile (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:43:10)
+    at loadPath (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+[2013-02-25 13:16:42.788] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:16:43.123] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:16:43.127] [ERROR] console -  Caught exception: ReferenceError: mongoose is not defined
+    at new Handler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:34:15)
+    at module.exports (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:2:9)
+    at loadFile (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:52:7)
+    at loadPath (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+    at initHandler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:97:34)
+    at pro.start (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:42:25)
+    at Component.start (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:34:15)
+    at Application._optComponents (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/application.js:383:19)
+[2013-02-25 13:17:07.097] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:17:07.437] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:17:08.114] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 13:17:08.144] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 13:17:08.146] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:17:08.147] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 13:19:37.689] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:19:38.011] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:19:38.193] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 13:19:38.225] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 13:19:38.227] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:19:38.228] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 13:24:57.502] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:24:57.844] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:24:58.011] [ERROR] console -  Caught exception: ReferenceError: Schema is not defined
+    at new Handler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:37:20)
+    at module.exports (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:2:9)
+    at loadFile (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:52:7)
+    at loadPath (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+    at initHandler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:97:34)
+    at pro.start (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:42:25)
+    at Component.start (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:34:15)
+    at Application._optComponents (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/application.js:383:19)
+[2013-02-25 13:25:22.444] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:25:22.777] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:25:22.962] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 13:25:22.992] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 13:25:22.994] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:25:22.995] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 13:30:37.029] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:30:37.480] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:30:37.727] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 13:30:37.767] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 13:30:37.770] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:30:37.770] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 13:32:22.911] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:32:23.243] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:32:23.415] [ERROR] console -  Caught exception: ReferenceError: db is not defined
+    at new Handler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:45:13)
+    at module.exports (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:2:9)
+    at loadFile (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:52:7)
+    at loadPath (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:79:7)
+    at Object.module.exports.load (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/pomelo-loader/lib/loader.js:39:9)
+    at loadHandlers (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:106:19)
+    at initHandler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:97:34)
+    at pro.start (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:42:25)
+    at Component.start (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:34:15)
+    at Application._optComponents (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/application.js:383:19)
+[2013-02-25 13:32:38.219] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:32:38.543] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:32:38.719] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 13:32:38.749] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 13:32:38.750] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:32:38.751] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 13:32:39.859] [ERROR] console -  Caught exception: TypeError: Cannot call method 'toString' of null
+    at Promise.Handler (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:49:20)
+    at Promise.addBack (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/promise.js:133:8)
+    at Promise.EventEmitter.emit (events.js:99:17)
+    at Promise.emit (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/promise.js:66:38)
+    at Promise.complete (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/promise.js:77:20)
+    at handleSave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/model.js:335:13)
+    at exports.tick (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/utils.js:392:16)
+    at null.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/node_modules/mongodb/lib/mongodb/collection.js:329:9)
+    at g (events.js:192:14)
+    at EventEmitter.emit (events.js:126:20)
+[2013-02-25 13:32:50.771] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 13:32:51.121] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:32:51.304] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 13:32:51.335] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 13:32:51.336] [INFO] console - info: 'socket.io started'
+[2013-02-25 13:32:51.337] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 13:32:51.343] [INFO] console - null
+[2013-02-25 14:15:35.079] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:15:35.453] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:15:35.463] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:15:35.507] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:15:35.508] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:15:35.508] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:15:42.894] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:15:43.422] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:15:43.434] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:15:43.474] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:15:43.475] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:15:43.476] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:17:03.048] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:17:03.536] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:17:03.544] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:17:03.582] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:17:03.583] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:17:03.583] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:17:13.417] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:17:13.945] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:17:13.954] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:17:13.994] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:17:13.995] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:17:13.996] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:17:19.152] [ERROR] console -  Caught exception: TypeError: Cannot call method 'model' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:21:24)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Filter.before (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/filters/handler/timeout.js:25:3)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:64:15)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+[2013-02-25 14:17:22.151] [WARN] /node_modules/pomelo/lib/filters/handler/timeout.js - request "ext/account.accountHandler.login" timeout.
+[2013-02-25 14:17:55.210] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:17:55.737] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:17:55.746] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:17:55.790] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:17:55.793] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:17:55.793] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:17:57.712] [INFO] console - null
+[2013-02-25 14:21:53.048] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:21:53.576] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:21:53.583] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:21:53.623] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:21:53.625] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:21:53.625] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:22:27.505] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:22:28.025] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:22:28.035] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:22:28.071] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:22:28.073] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:22:28.074] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:22:40.557] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:22:41.072] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:22:41.084] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:22:41.127] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:22:41.128] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:22:41.128] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:23:19.707] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:23:20.245] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:23:20.254] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:23:20.289] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:23:20.291] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:23:20.291] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:23:25.328] [INFO] console - mongo closed
+[2013-02-25 14:23:42.018] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:23:42.559] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:23:42.570] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:23:42.622] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:23:42.625] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:23:42.626] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:25:01.140] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:25:01.698] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:01.711] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:25:01.751] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:25:01.753] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:01.753] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:25:09.027] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:25:09.572] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:09.583] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:25:09.624] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:25:09.625] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:09.626] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:25:17.113] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:25:17.613] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:17.621] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:25:17.663] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:25:17.665] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:17.665] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:25:20.873] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:25:21.371] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:21.381] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:25:21.426] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:25:21.427] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:21.427] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:25:24.093] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:25:24.597] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:24.605] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:25:24.652] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:25:24.654] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:25:24.654] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:31:00.239] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:31:00.761] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:31:00.769] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:31:00.809] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:31:00.811] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:31:00.811] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:41:42.580] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:41:43.110] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:41:43.121] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:41:43.162] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:41:43.164] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:41:43.164] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:46:08.924] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:46:09.466] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:46:09.477] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:46:09.533] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:46:09.536] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:46:09.536] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:46:14.928] [ERROR] console -  Caught exception: ReferenceError: app is not defined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:21:18)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+[2013-02-25 14:46:31.698] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:46:32.197] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:46:32.207] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:46:32.245] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:46:32.247] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:46:32.249] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:46:57.425] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:46:57.970] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:46:57.985] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:46:58.038] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:46:58.041] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:46:58.042] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:47:03.727] [ERROR] console -  Caught exception: TypeError: Cannot set property 'password' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:27)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+[2013-02-25 14:47:17.994] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:47:18.556] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:47:18.568] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:47:18.677] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:47:18.678] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:47:18.679] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:47:25.684] [ERROR] console -  Caught exception: TypeError: Cannot set property 'password' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:27)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+[2013-02-25 14:47:41.331] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:47:41.904] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:47:41.920] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:47:42.028] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:47:42.032] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:47:42.032] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:47:43.262] [ERROR] console -  Caught exception: TypeError: Cannot set property 'password' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:27)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+[2013-02-25 14:48:42.444] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:48:42.984] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:48:43.046] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:48:43.132] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:48:43.133] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:48:43.134] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:48:48.124] [ERROR] console -  Caught exception: TypeError: Cannot set property 'pomelo-ext' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:29:32)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+[2013-02-25 14:49:40.145] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:49:40.721] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:49:40.757] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:49:40.846] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:49:40.847] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:49:40.848] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:49:42.130] [INFO] console - null
+[2013-02-25 14:50:19.392] [INFO] console - null
+[2013-02-25 14:50:20.389] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:92:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-25 14:50:21.168] [INFO] console - null
+[2013-02-25 14:51:35.306] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:51:35.819] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:51:35.828] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:51:35.869] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:51:35.870] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:51:35.871] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:51:40.029] [INFO] console - null
+[2013-02-25 14:54:23.242] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:54:23.779] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:54:23.792] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:54:23.845] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:54:23.846] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:54:23.847] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:54:29.473] [ERROR] console -  Caught exception: TypeError: Cannot set property 'profile' of null
+    at model.Document.setValue (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:621:19)
+    at model.Document.set (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:436:22)
+    at model.Object.defineProperty.set [as profile] (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:1114:23)
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:30)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-02-25 14:55:02.391] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:55:02.945] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:55:02.955] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:55:03.005] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:55:03.007] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:55:03.007] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:55:04.538] [ERROR] console -  Caught exception: TypeError: Cannot set property 'profile' of null
+    at model.Document.setValue (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:621:19)
+    at model.Document.set (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:436:22)
+    at model.Object.defineProperty.set [as profile] (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:1114:23)
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:30)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-02-25 14:55:27.459] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:55:28.032] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:55:28.045] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:55:28.125] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:55:28.126] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:55:28.127] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:55:29.740] [ERROR] console -  Caught exception: TypeError: Cannot set property 'profile' of null
+    at model.Document.setValue (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:621:19)
+    at model.Document.set (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:436:22)
+    at model.Object.defineProperty.set [as profile] (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:1114:23)
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:33)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-02-25 14:56:10.158] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:56:10.777] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:56:10.788] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:56:10.829] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:56:10.830] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:56:10.830] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:56:11.906] [ERROR] console -  Caught exception: TypeError: Cannot set property 'profile' of null
+    at model.Document.setValue (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:621:19)
+    at model.Document.set (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:436:22)
+    at model.Object.defineProperty.set [as profile] (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:1114:23)
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:26:33)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-02-25 14:56:32.107] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:56:32.713] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:56:32.723] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:56:32.778] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:56:32.780] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:56:32.781] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:56:33.736] [INFO] console - a:null
+[2013-02-25 14:56:33.739] [ERROR] console -  Caught exception: TypeError: Cannot set property 'profile' of null
+    at model.Document.setValue (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:621:19)
+    at model.Document.set (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:436:22)
+    at model.Object.defineProperty.set [as profile] (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/mongoose/lib/document.js:1114:23)
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:27:33)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+[2013-02-25 14:57:11.189] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:57:11.742] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:57:11.759] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:57:11.818] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:57:11.819] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:57:11.819] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:57:12.914] [INFO] console - a:'df'
+[2013-02-25 14:57:12.924] [INFO] console - null
+[2013-02-25 14:57:59.420] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:57:59.960] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:57:59.974] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:58:00.016] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:58:00.017] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:58:00.017] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:58:02.367] [INFO] console - null
+[2013-02-25 14:59:17.454] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:59:17.992] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:59:18.001] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:59:18.133] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:59:18.136] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:59:18.137] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:59:18.993] [ERROR] console -  Caught exception: TypeError: Cannot set property 'profile' of undefined
+    at handler.login (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:25:28)
+    at Service.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/handlerService.js:33:30)
+    at handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:221:25)
+    at Service.beforeFilter.next (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:51:7)
+    at Service.beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/filterService.js:71:3)
+    at beforeFilter (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:116:8)
+    at doHandle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:234:3)
+    at pro.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/server/server.js:71:5)
+    at Component.handle (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/server.js:54:15)
+    at handleMessage (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/components/connector.js:142:20)
+[2013-02-25 14:59:50.712] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 14:59:51.251] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:59:51.264] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 14:59:51.414] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 14:59:51.418] [INFO] console - info: 'socket.io started'
+[2013-02-25 14:59:51.418] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 14:59:52.269] [INFO] console - null
+[2013-02-25 15:03:28.291] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 15:03:28.818] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:03:28.828] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 15:03:28.868] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 15:03:28.869] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:03:28.870] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 15:03:31.267] [INFO] console - null
+[2013-02-25 15:04:40.621] [ERROR] console -  Caught exception: TypeError: Cannot read property 'sessionRemote' of undefined
+    at onUserLeave (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/app/servers/ext/account/handler/accountHandler.js:92:14)
+    at EventEmitter.emit (events.js:126:20)
+    at Session.closed (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/lib/common/service/sessionService.js:334:8)
+    at EventEmitter.emit (events.js:126:20)
+    at Socket.EventEmitter.emit [as $emit] (events.js:96:17)
+    at Socket.onDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/socket.js:153:10)
+    at SocketNamespace.handleDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/namespace.js:229:46)
+    at Manager.onClientDisconnect (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/manager.js:501:29)
+    at WebSocket.Transport.end (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transport.js:467:20)
+    at Parser.<anonymous> (/Users/zhengzhiyu/apps/pomelo-ext/server/game-server/node_modules/pomelo/node_modules/socket.io/lib/transports/websocket/hybi-16.js:52:10)
+[2013-02-25 15:13:09.023] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 15:13:09.537] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:13:09.547] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 15:13:09.588] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 15:13:09.590] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:13:09.590] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 15:13:15.041] [INFO] console - result: 'c21f969b5f03d33d43e04f8f136e7682'
+[2013-02-25 15:21:27.627] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 15:21:28.138] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:21:28.147] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 15:21:28.184] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 15:21:28.185] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:21:28.186] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 15:21:32.673] [INFO] console - result: 'c21f969b5f03d33d43e04f8f136e7682'
+[2013-02-25 15:21:41.163] [INFO] console - result: 'c21f969b5f03d33d43e04f8f136e7682'
+[2013-02-25 15:21:44.620] [INFO] console - result: 'c21f969b5f03d33d43e04f8f136e7682'
+[2013-02-25 15:22:21.083] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 15:22:21.593] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:22:21.602] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 15:22:21.646] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 15:22:21.648] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:22:21.648] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 15:22:25.969] [INFO] console - result: 'c21f969b5f03d33d43e04f8f136e7682'
+[2013-02-25 15:24:01.417] [INFO] console - result: 'c21f969b5f03d33d43e04f8f136e7682'
+[2013-02-25 15:24:33.276] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 15:24:33.770] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:24:33.779] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 15:24:33.818] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 15:24:33.819] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:24:33.819] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.
+[2013-02-25 15:32:56.026] [INFO] /node_modules/pomelo/lib/application.js - application inited: "ext-account-server-1"
+[2013-02-25 15:32:56.568] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:32:56.591] [INFO] /node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js - try to connect master: "ext/account", "127.0.0.1", 3005
+[2013-02-25 15:32:56.639] [DEBUG] /node_modules/pomelo/lib/modules/afterStart.js - after start: "ext-account-server-1"
+[2013-02-25 15:32:56.641] [INFO] console - info: 'socket.io started'
+[2013-02-25 15:32:56.642] [INFO] /node_modules/pomelo/lib/modules/afterStart.js - server "ext-account-server-1" started.

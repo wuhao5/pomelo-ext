@@ -1,18 +1,18 @@
 {
   "development":{
-    "connector": [
-      {"id": "connector-server-1", "host": "127.0.0.1", "port": 3150, "wsPort": 3010}
-    ],
     "ext": [
-      {"id": "ext-server-1", "host": "127.0.0.1", "port": 3250, "wsPort": 3110}
+      {"id": "ext-server-1", "host": "127.0.0.1", "port": 3250, "wsPort": 3010}
+    ],
+    "ext/account": [
+      {"id": "ext-account-server-1", "host": "127.0.0.1", "port": 3350, "wsPort": 3110}
     ]
   },
   "production":{
-    "connector": [
-      {"id": "connector-server-1", "host": "127.0.0.1", "port": 3150, "wsPort": 3010}
-    ],
     "ext": [
-      {"id": "ext-server-1", "host": "127.0.0.1", "port": 3250, "wsPort": 3110}
+      {"id": "ext-server-1", "host": "127.0.0.1", "port": 3250, "wsPort": 3010}
+    ],
+    "ext/account": [
+      {"id": "ext-account-server-1", "host": "127.0.0.1", "port": 3350, "wsPort": 3110}
     ]
   }
 }
